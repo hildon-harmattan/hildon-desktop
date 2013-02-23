@@ -21,6 +21,7 @@
  *
  */
 
+#include <inttypes.h>
 #include "hd-note.h"
 #include "hd-comp-mgr.h"
 #include "hd-util.h"

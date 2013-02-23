@@ -21,6 +21,7 @@
  *
  */
 
+#include <inttypes.h>
 #include "hd-desktop.h"
 #include "hd-comp-mgr.h"
 #include "hd-home-applet.h"
